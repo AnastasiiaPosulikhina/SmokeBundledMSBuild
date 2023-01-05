@@ -1,0 +1,6 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary16\bin\Debug\ClassLibrary16.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary16\bin\Debug\ClassLibrary16.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary16\obj\Debug\ClassLibrary16.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary16\obj\Debug\ClassLibrary16.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary16\obj\Debug\ClassLibrary16.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary16\obj\Debug\ClassLibrary16.pdb

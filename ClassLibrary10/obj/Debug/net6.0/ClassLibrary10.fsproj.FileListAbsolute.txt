@@ -1,0 +1,11 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary10\bin\Debug\net6.0\ClassLibrary10.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary10\bin\Debug\net6.0\ClassLibrary10.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary10\bin\Debug\net6.0\ClassLibrary10.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary10\bin\Debug\net6.0\ClassLibrary10.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary10\obj\Debug\net6.0\ClassLibrary10.fsproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary10\obj\Debug\net6.0\ClassLibrary10.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary10\obj\Debug\net6.0\ClassLibrary10.AssemblyInfo.fs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary10\obj\Debug\net6.0\ClassLibrary10.fsproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary10\obj\Debug\net6.0\ClassLibrary10.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary10\obj\Debug\net6.0\ClassLibrary10.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary10\obj\Debug\net6.0\ClassLibrary10.pdb

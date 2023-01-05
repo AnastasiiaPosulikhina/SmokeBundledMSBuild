@@ -1,0 +1,12 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary11\bin\Debug\net6.0\ClassLibrary11.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary11\bin\Debug\net6.0\ClassLibrary11.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary11\bin\Debug\net6.0\ClassLibrary11.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary11\obj\Debug\net6.0\ClassLibrary11.vbproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary11\obj\Debug\net6.0\ClassLibrary11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary11\obj\Debug\net6.0\ClassLibrary11.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary11\obj\Debug\net6.0\ClassLibrary11.AssemblyInfo.vb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary11\obj\Debug\net6.0\ClassLibrary11.vbproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary11\obj\Debug\net6.0\ClassLibrary11.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary11\obj\Debug\net6.0\refint\ClassLibrary11.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary11\obj\Debug\net6.0\ClassLibrary11.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary11\obj\Debug\net6.0\ref\ClassLibrary11.dll

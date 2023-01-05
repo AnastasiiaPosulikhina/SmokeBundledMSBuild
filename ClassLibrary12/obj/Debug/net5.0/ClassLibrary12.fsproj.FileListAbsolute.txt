@@ -1,0 +1,11 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary12\bin\Debug\net5.0\ClassLibrary12.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary12\bin\Debug\net5.0\ClassLibrary12.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary12\bin\Debug\net5.0\ClassLibrary12.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary12\bin\Debug\net5.0\ClassLibrary12.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary12\obj\Debug\net5.0\ClassLibrary12.fsproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary12\obj\Debug\net5.0\ClassLibrary12.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary12\obj\Debug\net5.0\ClassLibrary12.AssemblyInfo.fs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary12\obj\Debug\net5.0\ClassLibrary12.fsproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary12\obj\Debug\net5.0\ClassLibrary12.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary12\obj\Debug\net5.0\ClassLibrary12.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary12\obj\Debug\net5.0\ClassLibrary12.pdb

@@ -1,0 +1,10 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary14\bin\Debug\netcoreapp3.1\ClassLibrary14.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary14\bin\Debug\netcoreapp3.1\ClassLibrary14.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary14\bin\Debug\netcoreapp3.1\ClassLibrary14.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary14\obj\Debug\netcoreapp3.1\ClassLibrary14.vbproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary14\obj\Debug\netcoreapp3.1\ClassLibrary14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary14\obj\Debug\netcoreapp3.1\ClassLibrary14.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary14\obj\Debug\netcoreapp3.1\ClassLibrary14.AssemblyInfo.vb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary14\obj\Debug\netcoreapp3.1\ClassLibrary14.vbproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary14\obj\Debug\netcoreapp3.1\ClassLibrary14.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary14\obj\Debug\netcoreapp3.1\ClassLibrary14.pdb

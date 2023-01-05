@@ -1,0 +1,5 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApp5\bin\Release\netcoreapp3.1\publish\WpfApp5.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApp5\bin\Release\netcoreapp3.1\publish\WpfApp5.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApp5\bin\Release\netcoreapp3.1\publish\WpfApp5.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApp5\bin\Release\netcoreapp3.1\publish\WpfApp5.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApp5\bin\Release\netcoreapp3.1\publish\WpfApp5.pdb

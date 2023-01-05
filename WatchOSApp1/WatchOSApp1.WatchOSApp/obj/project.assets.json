@@ -1,0 +1,49 @@
+{
+  "version": 3,
+  "targets": {
+    "Xamarin.WatchOS,Version=v1.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "Xamarin.WatchOS,Version=v1.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\SmokeBundledMSBuild\\WatchOSApp1\\WatchOSApp1.WatchOSApp\\WatchOSApp1.WatchOSApp.csproj",
+      "projectName": "WatchOSApp1.WatchOSApp.csproj",
+      "projectPath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\SmokeBundledMSBuild\\WatchOSApp1\\WatchOSApp1.WatchOSApp\\WatchOSApp1.WatchOSApp.csproj",
+      "packagesPath": "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\SmokeBundledMSBuild\\WatchOSApp1\\WatchOSApp1.WatchOSApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Anastasiia.Posulikhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "xamarinwatchos10"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "xamarinwatchos10": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "xamarinwatchos10": {}
+    }
+  }
+}

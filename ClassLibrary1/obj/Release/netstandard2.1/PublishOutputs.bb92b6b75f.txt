@@ -1,0 +1,3 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary1\bin\Release\netstandard2.1\publish\ClassLibrary1.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary1\bin\Release\netstandard2.1\publish\ClassLibrary1.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary1\bin\Release\netstandard2.1\publish\ClassLibrary1.pdb

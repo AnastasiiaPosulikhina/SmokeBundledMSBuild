@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ddFD0eGniPXNd/j5CBvVy88lt596L7hozmaRxBohnoFhIeUzDkPRzkYNMpUbCdefxDsPNWeWgXTfkQde3r6cFg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\SmokeBundledMSBuild\\iOSApp2\\iOSApp2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net7.0-ios"
+    }
+  ]
+}

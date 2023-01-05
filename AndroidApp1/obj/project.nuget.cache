@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nw1RiDz+G69Advwi0slTD3HTFMh9ysyCt1bDWkITUpCEuDBD/3E+ss87Pt76QUnLX5DislebZwlDM4WXrvbKbA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\SmokeBundledMSBuild\\AndroidApp1\\AndroidApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net7.0-android"
+    }
+  ]
+}

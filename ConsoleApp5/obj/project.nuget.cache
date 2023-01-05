@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xH2EZQ53ItpZWpxuBBHAKT1xFzxLSuY0158GVi5PMJPi/zv7UVQz/0KcSO7SonetZU+nyIDQ8iYwsn+T7IytXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\SmokeBundledMSBuild\\ConsoleApp5\\ConsoleApp5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

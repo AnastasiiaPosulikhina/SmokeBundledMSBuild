@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <!--        <EnableNETAnalyzers>false</EnableNETAnalyzers>-->
+        <!--        <AnalysisMode>None</AnalysisMode>-->
+
+        <!--        <CodeAnalysisRuleSet>C:\Users\Anastasiia.Posulikhi\RiderProjects\RoslynAnalyzersDogfooding\Custom.ruleset</CodeAnalysisRuleSet>-->
+
+        <!-- Every rule has to effect code analysis-->
+
+        <!--        <AnalysisLevel>preview</AnalysisLevel>-->
+        <!--        <AnalysisLevel>latest</AnalysisLevel>-->
+        <!--        <AnalysisLevel>5.0</AnalysisLevel>-->
+        <!--        <EnableNETAnalyzers>false</EnableNETAnalyzers>-->
+
+        <!--        <AnalysisMode>AllEnabledByDefault</AnalysisMode>-->
+        <!--		<AnalysisMode>Default</AnalysisMode> -->
+
+        <!--        <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>-->
+        <!--         <RunCodeAnalysis>true</RunCodeAnalysis>-->
+
+        <!--         <TreatWarningsAsErrors>true</TreatWarningsAsErrors>-->
+
+        <!--        <RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>-->
+        <!--        <RunAnalyzersDuringLiveAnalysis>false</RunAnalyzersDuringLiveAnalysis>-->
+        <!--        <RunAnalyzers>false</RunAnalyzers>-->
+    </PropertyGroup>
+
+    <!--    <ItemGroup>-->
+    <!--      <PackageReference Include="StyleCop.Analyzers" Version="1.2.0-beta.435">-->
+    <!--        <PrivateAssets>all</PrivateAssets>-->
+    <!--        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>-->
+    <!--      </PackageReference>-->
+    <!--    </ItemGroup>-->
+
+
+</Project>

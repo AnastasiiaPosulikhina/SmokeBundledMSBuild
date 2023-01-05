@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "eqOTZcjgE/mscbix2wIz+qlLSK4ESlS7TZmWT1ebzKQ=",
+  "Source": "EmptyBlazorApp2",
+  "BasePath": "_content/EmptyBlazorApp2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmptyBlazorApp2\\wwwroot",
+      "Source": "EmptyBlazorApp2",
+      "ContentRoot": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\SmokeBundledMSBuild\\EmptyBlazorApp2\\wwwroot\\",
+      "BasePath": "_content/EmptyBlazorApp2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\SmokeBundledMSBuild\\EmptyBlazorApp2\\wwwroot\\css\\site.css",
+      "SourceId": "EmptyBlazorApp2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\SmokeBundledMSBuild\\EmptyBlazorApp2\\wwwroot\\",
+      "BasePath": "_content/EmptyBlazorApp2",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}

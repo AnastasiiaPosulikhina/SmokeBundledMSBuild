@@ -1,0 +1,12 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WebApplication5\bin\Release\net7.0\publish\WebApplication5.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WebApplication5\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WebApplication5\bin\Release\net7.0\publish\appsettings.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WebApplication5\bin\Release\net7.0\publish\WebApplication5.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WebApplication5\bin\Release\net7.0\publish\WebApplication5.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WebApplication5\bin\Release\net7.0\publish\WebApplication5.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WebApplication5\bin\Release\net7.0\publish\WebApplication5.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WebApplication5\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WebApplication5\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WebApplication5\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WebApplication5\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WebApplication5\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

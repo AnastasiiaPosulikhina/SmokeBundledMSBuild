@@ -1,0 +1,14 @@
+<Project>
+    <PropertyGroup>
+        <EnableNETAnalyzers>false</EnableNETAnalyzers>
+        <!--        <AnalysisMode>AllEnabledByDefault</AnalysisMode>-->
+        <!--                <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>-->
+        <!--                <RunCodeAnalysis>true</RunCodeAnalysis>-->
+
+        <!--                <TreatWarningsAsErrors>true</TreatWarningsAsErrors>-->
+
+        <!--        <RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>-->
+        <!--        <RunAnalyzersDuringLiveAnalysis>false</RunAnalyzersDuringLiveAnalysis>-->
+        <!--        <RunAnalyzers>false</RunAnalyzers>-->
+    </PropertyGroup>
+</Project>

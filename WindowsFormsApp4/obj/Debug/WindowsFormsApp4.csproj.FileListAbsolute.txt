@@ -1,0 +1,10 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb

@@ -1,0 +1,16 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\obj\Debug\WpfApplication3.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\obj\Debug\WpfApplication3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\obj\Debug\WpfApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\WpfApplication3\obj\Debug\WpfApplication3.pdb

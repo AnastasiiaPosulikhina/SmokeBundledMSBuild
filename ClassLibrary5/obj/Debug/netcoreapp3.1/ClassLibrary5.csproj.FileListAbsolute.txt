@@ -1,0 +1,10 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary5\bin\Debug\netcoreapp3.1\ClassLibrary5.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary5\bin\Debug\netcoreapp3.1\ClassLibrary5.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary5\bin\Debug\netcoreapp3.1\ClassLibrary5.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary5\obj\Debug\netcoreapp3.1\ClassLibrary5.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary5\obj\Debug\netcoreapp3.1\ClassLibrary5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary5\obj\Debug\netcoreapp3.1\ClassLibrary5.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary5\obj\Debug\netcoreapp3.1\ClassLibrary5.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary5\obj\Debug\netcoreapp3.1\ClassLibrary5.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary5\obj\Debug\netcoreapp3.1\ClassLibrary5.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary5\obj\Debug\netcoreapp3.1\ClassLibrary5.pdb

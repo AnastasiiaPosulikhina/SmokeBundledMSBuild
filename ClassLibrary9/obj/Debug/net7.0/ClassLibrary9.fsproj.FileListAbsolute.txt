@@ -1,0 +1,13 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary9\bin\Debug\net7.0\ClassLibrary9.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary9\bin\Debug\net7.0\ClassLibrary9.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary9\bin\Debug\net7.0\ClassLibrary9.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary9\bin\Debug\net7.0\ClassLibrary9.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary9\obj\Debug\net7.0\ClassLibrary9.fsproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary9\obj\Debug\net7.0\ClassLibrary9.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary9\obj\Debug\net7.0\ClassLibrary9.AssemblyInfo.fs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary9\obj\Debug\net7.0\ClassLibrary9.fsproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary9\obj\Debug\net7.0\ClassLibrary9.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary9\obj\Debug\net7.0\ClassLibrary9.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary9\obj\Debug\net7.0\ClassLibrary9.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary9\obj\Debug\net7.0\refint\ClassLibrary9.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\SmokeBundledMSBuild\ClassLibrary9\obj\Debug\net7.0\ref\ClassLibrary9.dll
